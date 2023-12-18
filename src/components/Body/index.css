@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.body-bg-container {
+  display: flex;
+  justify-content: center;
+}
+.left-container {
+  background-color: #e2e8f0;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-right: 2px;
+  width: 35%;
+  padding: 20px;
+}
+.unorder-item-list {
+  list-style-type: none;
+}
+.body-center-part {
+  background-color: #e2e8f0;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding: 20px;
+}
+.right-container {
+  background-color: #f1f5f9;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  width: 35%;
+  padding: 20px;
+}
+.ad-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-color: #475569;
+  width: 20vw;
+  height: 20vh;
+  margin-bottom: 2px;
+}

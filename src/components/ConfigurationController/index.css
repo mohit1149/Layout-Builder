@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.configuration-context-container {
+  background-color: #475569;
+  padding: 30px;
+}
+.layout-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #ffffff;
+}
+.heading-label {
+  color: #ffffff;
+  margin-left: 3px;
+  font-family: 'Roboto';
+}
